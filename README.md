@@ -1,5 +1,5 @@
 # np-integer
-A simple directive to restrict input to integer
+A simple directive to restrict input to integer.
 
 Example:
 ```
